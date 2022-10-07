@@ -1,0 +1,10 @@
+{
+	"autodeskProduct":	"Fusion360",
+	"type":	"script",
+	"author":	"Patrick Rainsberry",
+	"description":	{
+		"":	"Compute minimum bounding box based on principal axis of inertia"
+	},
+	"supportedOS":	"windows|mac",
+	"editEnabled":	true
+}
